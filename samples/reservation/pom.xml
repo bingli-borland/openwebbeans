@@ -35,7 +35,7 @@ under the License.
     <properties>
         <deploy.skip>true</deploy.skip>
         <openjpa.version>4.0.1</openjpa.version>
-        <jakarta.persistence-api.version>3.0.0</jakarta.persistence-api.version>
+        <jakarta.persistence-api.version>3.2.0</jakarta.persistence-api.version>
     </properties>
 
     <!--
