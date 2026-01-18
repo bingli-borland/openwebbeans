@@ -30,7 +30,7 @@
     <artifactId>openwebbeans</artifactId>
     <name>Apache OpenWebBeans</name>
     <packaging>pom</packaging>
-    <version>4.0.4-SNAPSHOT</version>
+    <version>4.0.4</version>
 
     <url>openwebbeans.apache.org</url>
 
